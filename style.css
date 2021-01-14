@@ -25,5 +25,8 @@ body {
     .cart-flex-item{
         text-align: center;
     }
+    .cart-flex-item img{
+        width: 90px;
+    }
 
 }
