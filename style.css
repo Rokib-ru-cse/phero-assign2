@@ -1,18 +1,7 @@
-body {
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
-}
-
-#casule_shoes_section .img {
-  background-color: pink;
-  border-radius: 20px;
-}
 .casual-item {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   border-radius: 20px;
 }
-
 @media (max-width:768px){
     .about-flex{
         display: flex;
